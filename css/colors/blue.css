@@ -1,0 +1,130 @@
+/* --------------------------------------
+=========================================
+COLOR : BLUE 
+
+MAIN COLOR CODE: #008ed6
+
+DEEP COLOR CODE: #005885
+=========================================
+----------------------------------------- */
+
+.color-overlay {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.standard-button {
+    background: #008ed6;
+}
+
+.standard-button2 {
+    background:  #d53734;
+}
+
+.standard-button2:hover {
+    background:#f2ae72;
+}
+
+.btn-primary:focus, 
+.btn-primary:active, 
+.btn-primary.active, 
+.open .dropdown-toggle.btn-primary {
+    background: #005885;
+    border-color: inherit;
+}
+
+.colored-line,
+.colored-line-left {
+    background: #008ed6;
+}
+
+.main-color {
+    color: #d53734;
+}
+
+.color-bg {
+	background: #008ed6;
+	color: #FFFFFF;
+}
+
+
+
+.features .feature:hover .icon-container .icon {
+    background: #d53734;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    -webkit-box-shadow: 0px 0px 0px 2px #d53734;
+            box-shadow: 0px 0px 0px 2px #d53734;
+}
+
+.features .feature .icon-container .icon {
+    border: 1px solid #d53734;
+    color: #d53734;
+}
+
+.feature-list li i {
+    color: #d53734;
+}
+
+.services .single-service .service-icon,
+.services .single-service h3 {
+    color: #d53734;
+}
+
+.screenshots .owl-theme .owl-controls .owl-page span {
+    background: #008ed6;
+}
+
+footer .contact-button {
+    border: 2px solid #d53734;
+    color: #d53734;
+}
+
+footer .contact-button:hover {
+    background: #d53734;
+}
+
+/*.download .subscription-form .input-box:focus,
+.download .subscription-form .input-box:active {
+    border: 2px solid #008ed6;
+} */
+
+footer .contact-box .expanded-contact-form .input-box:active,
+footer .contact-box .expanded-contact-form .textarea-box:active,
+footer .contact-box .expanded-contact-form .input-box:focus,
+footer .contact-box .expanded-contact-form .textarea-box:focus {
+    border: 1px solid #d53734;
+}
+
+footer .social-icons li a:hover {
+    color: #008ed6;
+}
+
+.red-line{
+    background: #d53734;
+}
+
+.red-line-left{
+    background: #d53734;
+}
+.blue-black{
+    background-color: #292d3d;
+}
+.green{
+    color: #34D567;
+}
+
+.blue{
+    background:#3fbad8;
+}
+
+.light-red{
+    background:#f2ae72
+}
+
+.brand-color{
+    background: #d53734;
+}
+
+.red-font{
+    color: #d53734;
+}
