@@ -314,7 +314,7 @@ h5 {
 -----------------------------------------*/
 
 header {
-    background: url(../images/lady.jpeg) no-repeat center top fixed;
+    background: url(../images/Cassy.JPG) no-repeat center top fixed;
     -webkit-background-size: cover;
             background-size: cover;
 }
@@ -819,7 +819,7 @@ footer .contact-box .expanded-contact-form .textarea-box:focus,     {
 
 footer .social-icons {
     margin-top: 30px;
-    border-bottom: 1px solid #111111;
+    border-bottom: 1px solid #FFFFFF;
     padding-bottom: 50px;
 }
 
