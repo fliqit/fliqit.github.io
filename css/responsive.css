@@ -140,6 +140,12 @@ RESPONSIVE FIXES
         width: 80%;
         margin-bottom: 10px;
     }
+    
+    header {
+        background: url(../images/Cassy-compressed1.jpg) no-repeat center top fixed;
+        -webkit-background-size: cover;
+        background-size: cover;
+    }
 }
 
 @media (max-width: 480px) {
@@ -194,7 +200,15 @@ RESPONSIVE FIXES
         -moz-background-clip: padding;
         background-clip: padding-box;
     }
+    .dyna-type{
+        display: block;
+    }
 
+    header {
+        background: url(../images/Cassy-compressed1.jpg) no-repeat center top fixed;
+        -webkit-background-size: cover;
+        background-size: cover;
+    }
 
 }
 
@@ -216,6 +230,19 @@ RESPONSIVE FIXES
         margin-top: 0;
         font-weight: bold;
     }
+
+    .dyna-type{
+        display: block;
+
+    }
+
+
+    header {
+        background: url(../images/Cassy-compressed1.jpg) no-repeat center top fixed;
+        -webkit-background-size: cover;
+        background-size: cover;
+    }
+
     .full-screen .intro-section .intro {
        margin-bottom: 0;
             

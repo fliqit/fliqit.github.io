@@ -867,6 +867,14 @@ footer .copyright {
     height:40%;
 }
 .dyna-type{
-    width: 0px;
-    margin: 0px;
+    border-radius: 5px;
+    color:white;
+    display: inline-block;
+    font-weight:bold;
+    background-color: rgba(255,255,255,0.1);
+
+}
+
+#explore{
+    color: white;
 }
