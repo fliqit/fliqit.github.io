@@ -314,7 +314,7 @@ h5 {
 -----------------------------------------*/
 
 header {
-    background: url(../images/Cassy.JPG) no-repeat center top fixed;
+    background: url(../images/Cassy-compressed.jpg) no-repeat center top fixed;
     -webkit-background-size: cover;
             background-size: cover;
 }
@@ -535,7 +535,7 @@ object {
 -----------------------------------------*/
 
 .testimonials {
-    background: url(../images/phone.png) no-repeat center fixed;
+    background: url(../images/phone-min-compressed.jpg) no-repeat center fixed;
     -webkit-background-size: cover;
             background-size: cover;
     color: #ffffff;
@@ -865,4 +865,8 @@ footer .copyright {
 .appstore{
     width: 40%;
     height:40%;
+}
+.dyna-type{
+    width: 0px;
+    margin: 0px;
 }
